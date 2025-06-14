@@ -19,7 +19,7 @@
  Student obj= new Student("rahul",11);
  Student obj1= new Student("ravi",15);
 
-   // System.out.println(obj.firstName);
-    //System.out.println(obj1.firstName);
+    System.out.println(obj.firstName);
+    System.out.println(obj1.firstName);
  }
  }
