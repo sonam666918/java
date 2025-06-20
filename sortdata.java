@@ -38,7 +38,7 @@ public class sortdata {
 import java.util.Collections;
 import java.util.Comparator;
 
-import Student.sortByAge;
+import .sortByAge;
 
 
 class Student{
